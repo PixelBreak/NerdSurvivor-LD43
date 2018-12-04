@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 426ab07126e5dad4e83d2d8f9c0e5a85
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Cube
+    100004: Cube_001
+    100006: Cube_004
+    100008: Cube_005
+    100010: Cube_008
+    100012: Cube_009
+    100014: Cube_013
+    100016: Cube_020
+    100018: Cube_021
+    100020: //RootNode
+    100022: Sphere
+    400000: Circle
+    400002: Cube
+    400004: Cube_001
+    400006: Cube_004
+    400008: Cube_005
+    400010: Cube_008
+    400012: Cube_009
+    400014: Cube_013
+    400016: Cube_020
+    400018: Cube_021
+    400020: //RootNode
+    400022: Sphere
+    2100000: teeth
+    2100002: hair
+    2100004: dress_shirt
+    2100006: dress_pant
+    2100008: eye
+    2100010: Material_002
+    2100012: Material_001
+    2100014: glass
+    2100016: eye_green
+    2100018: eye_pupil
+    2300000: Circle
+    2300002: Cube
+    2300004: Cube_001
+    2300006: Cube_004
+    2300008: Cube_005
+    2300010: Cube_008
+    2300012: Cube_009
+    2300014: Cube_013
+    2300016: Cube_020
+    2300018: Cube_021
+    2300020: Sphere
+    3300000: Circle
+    3300002: Cube
+    3300004: Cube_001
+    3300006: Cube_004
+    3300008: Cube_005
+    3300010: Cube_008
+    3300012: Cube_009
+    3300014: Cube_013
+    3300016: Cube_020
+    3300018: Cube_021
+    3300020: Sphere
+    4300000: Cube_021
+    4300002: Cube_020
+    4300004: Cube_013
+    4300006: Cube_005
+    4300008: Cube_004
+    4300010: Cube_008
+    4300012: Cube_001
+    4300014: Cube
+    4300016: Cube_009
+    4300018: Circle
+    4300020: Sphere
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 8aa3ed93516c97549a0346e4dcd72799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: e6c15b990602f4f4f8db92a12e206a97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dress_pant
+    second: {fileID: 2100000, guid: 1336af2f42560c847a53f3ecabbb44c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dress_shirt
+    second: {fileID: 2100000, guid: 0631f09b429b5594da1714c23a1a064b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye
+    second: {fileID: 2100000, guid: 8dcad14f1c48ce340b57416254681caf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_green
+    second: {fileID: 2100000, guid: 1552eaef045e1c04f932bd21429f2254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_pupil
+    second: {fileID: 2100000, guid: 5ff7b3931f11e794480b33d84a6feb68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: c1aaba31cae13e64296bbb20a276096e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+    second: {fileID: 2100000, guid: 51cc51c41a5de4b45800cac8baf12079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth
+    second: {fileID: 2100000, guid: c93ada80e42ed184dad87c9b03ff3891, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.4
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
